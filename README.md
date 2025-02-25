@@ -122,7 +122,7 @@ To allow the system to adjust valves and pump output again, simply select the Fl
 <br />
 <br />
 <br />
-To close the program, the user may simply press Shut Down, or press the X button on the top right of the main control menu. The user may also close the field device simulation programs at any time. Do not close the Modbus PLC. Closing the main program will close all attached programs including the Modbus PLC, but it sequences the closing of programs in a way that avoids any errors. In the worse case, if the Modbus PLC is closed first, it may freeze the main program, and it will not close or respond until it is forced to close by Task Manager. <br/>
+To close the program, the user may simply press Shut Down, or press the X button on the top right of the main control panel. The user may also close the field device simulation programs at any time. Do not close the Modbus PLC. Closing the main program will close all attached programs including the Modbus PLC, but it sequences the closing of programs in a way that avoids any errors. In the worse case, if the Modbus PLC is closed first, it may freeze the main program, and it will not close or respond until it is forced to close by Task Manager. <br/>
 <br />
 <img src="https://imgur.com/kuAEJGT.png" height="20%" width="20%" alt="WaterWise"/>
 <br />
