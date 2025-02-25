@@ -18,7 +18,7 @@ WaterWise is a Python-based smart irrigation system utilizing Modbus TCP to cont
 <br />
 <br />
 <br />
-Ensure screen resolution is set to either 1920x1200, 125% scale, or 1680x1050, 100% scale. <br/>
+Ensure screen resolution is set to an aspect ratio of 16:10. Common resolutions include 1920x1200 and 1680x1050. <br/>
 <br />
 <img src="https://imgur.com/G0uKDam.png" height="80%" width="80%" alt="WaterWise"/>
 <br />
